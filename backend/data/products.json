@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Bánh Tráng",
+        "price": 500,
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "100",
+                "url": "facebook.com"
+            }
+        ],
+        "category": "Food",
+        "seller": "Hoang Trung Nhat",
+        "stock": 500,
+        "numOfReviews": 1,
+        "review": []
+    },
+    {
+        "name": "Mì tôm",
+        "price": 300,
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "100",
+                "url": "facebook.com" 
+            }
+        ],
+        "category": "Food",
+        "seller": "Hoang Trung Nhat",
+        "stock": 500,
+        "numOfReviews": 1,
+        "review": []
+    }
+]
